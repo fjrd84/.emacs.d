@@ -1,3 +1,12 @@
+# Personal EMACS configuration
+
+Initially copied from here [https://github.com/flyingmachine/emacs-for-clojure](https://github.com/flyingmachine/emacs-for-clojure).
+
+Extended with:
+
+- Evil mode
+- Markdown mode
+
 # this is a Clojure-friendly emacs config
 
 If you're new to emacs, check out
