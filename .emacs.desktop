@@ -2,117 +2,90 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Sat Jun 24 12:10:52 2017
-;; Desktop file format version 206
-;; Emacs version 24.5.1
+;; Created Tue Oct 31 21:36:03 2017
+;; Desktop file format version 208
+;; Emacs version 25.2.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (22862 15020 884575 136000) (desktop . "206") "jdonado@jdonado-ThinkPad-T430" nil nil ((((font-backend xft x) (font . "-DAMA-Ubuntu Mono-normal-normal-normal-*-19-*-*-*-m-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (mouse-color . "black") (border-color . "#2a2a2a") (screen-gamma) (line-spacing) (left-fringe . 10) (right-fringe . 10) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 0) (tool-bar-lines . 1) (title) (wait-for-wm . t) (fullscreen . maximized) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (alpha) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (sticky) (environment) (frameset--id . "3EC7-1CCD-427F-5FD3") (frameset--mini t . t) (height . 41) (width . 158) (modeline . t) (minibuffer . t) (unsplittable) (left . 0) (top . 24) (icon-name) (visibility . t) (display . ":0") (explicit-name)) ((min-height . 8) (min-width . 20) (min-height-ignore . 4) (min-width-ignore . 8) (min-height-safe . 2) (min-width-safe . 4) (min-pixel-height . 160) (min-pixel-width . 200) (min-pixel-height-ignore . 80) (min-pixel-width-ignore . 80) (min-pixel-height-safe . 40) (min-pixel-width-safe . 40)) hc (pixel-width . 1600) (pixel-height . 811) (total-width . 160) (total-height . 41) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 800) (pixel-height . 811) (total-width . 80) (total-height . 41) (normal-height . 1.0) (normal-width . 0.5) (buffer "README.md" (selected . t) (hscroll . 0) (fringes 10 10 nil) (margins 2) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 629) (start . 1))) (vc (last . t) (pixel-width . 800) (pixel-height . 811) (total-width . 80) (total-height . 41) (normal-height . 1.0) (normal-width . 0.5) (combination-limit) (leaf (pixel-width . 800) (pixel-height . 575) (total-width . 80) (total-height . 29) (normal-height . 0.7038895859473024) (normal-width . 1.0) (buffer "*cider-repl clojure-noob*" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 3) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 12371) (start . 11498))) (leaf (last . t) (pixel-width . 800) (pixel-height . 236) (total-width . 80) (total-height . 12) (normal-height . 0.2961104140526976) (normal-width . 1.0) (buffer "*shell*" (selected) (hscroll . 0) (fringes 10 10 nil) (margins 2) (scroll-bars 0 0 t nil) (vscroll . 0) (dedicated) (point . 2226) (start . 1838))))))])
+(setq desktop-saved-frameset [frameset 1 (23032 57011 391819 0) (desktop . "208") "jdonado@Fs-iMac.local" nil nil ((((font-backend mac-ct) (fontsize . 0) (font . "-*-Menlo-normal-normal-normal-*-14-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#eaeaea") (background-color . "#000000") (line-spacing) (left-fringe . 8) (right-fringe . 8) (menu-bar-lines . 0) (tool-bar-lines . 1) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#d54e53") (environment) (border-color . "#2a2a2a") (frameset--id . "4EFE-BC15-1D95-8960") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (display . "Fs-iMac.local") (explicit-name) (tool-bar-position . top) (user-size . t) (visibility . t) (height . 56) (width . 207) (left + -1676) (top . 24)) ((min-height . 4) (min-width . 20) (min-height-ignore . 2) (min-width-ignore . 11) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 64) (min-pixel-width . 160) (min-pixel-height-ignore . 32) (min-pixel-width-ignore . 88) (min-pixel-height-safe . 16) (min-pixel-width-safe . 32)) hc (pixel-width . 1672) (pixel-height . 880) (total-width . 209) (total-height . 55) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 840) (pixel-height . 880) (total-width . 105) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (buffer "core_test.clj" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 1) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 183) (start . 1))) (leaf (last . t) (pixel-width . 832) (pixel-height . 880) (total-width . 104) (total-height . 55) (normal-height . 1.0) (normal-width . 0.5) (buffer "*Messages*" (selected) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars nil 0 t nil 0 nil) (vscroll . 0) (dedicated) (point . 2449) (start . 902)))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
 (setq search-ring nil)
-(setq regexp-search-ring nil)
+(setq regexp-search-ring '("te" "lif" "Git"))
 (setq register-alist nil)
 (setq file-name-history '("~/.emacs.d/" "~/Git/clojure-noob/" "~/.emacs.d/" "~/Git/clojure-noob/src/clojure_noob/" "~/Git/clojure-noob/" "/home/jdonado/Git/clojure-noob/README.md" "~/.emacs.d/ido.last" "~/Git/clojure-noob/src/clojure_noob/core.clj" "~/test2.js" "~/Git/clojure-noob/project.clj" "~/test111" "~/.emacs.d/elpa/evil-anzu-20170123.2318/evil-anzu-autoloads.el" "~/.emacs.d/elpa/anzu-20161017.907/anzu-autoloads.el" "~/.emacs.d/elpa/0blayout-20161007.2307/0blayout-autoloads.el" "~/.emacs.d/elpa/0xc-20170125.1953/0xc-autoloads.el" "~/.emacs.d/init.el"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
-(desktop-create-buffer 206
-  "/home/jdonado/Git/clojure-noob/README.md"
-  "README.md"
-  'fundamental-mode
-  '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode)
-  629
-  '(629 nil)
+(desktop-create-buffer 208
+  "/Users/jdonado/Git/lifescope-stats/test/lifescope_stats/core_test.clj"
+  "core_test.clj"
+  'clojure-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode subword-mode paredit-mode cider-mode)
+  183
+  '(183 nil)
   nil
   nil
-  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode) (fill-column . 49)))
+  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (183 1))))
 
-(desktop-create-buffer 206
-  "/home/jdonado/.emacs.d/init.el"
-  "init.el"
-  'emacs-lisp-mode
-  '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode eldoc-mode paredit-mode)
-  461
-  '(461 nil)
+(desktop-create-buffer 208
   nil
-  nil
-  '((buffer-file-coding-system . prefer-utf-8-unix) (overwrite-mode)))
-
-(desktop-create-buffer 206
-  nil
-  ".emacs.d"
+  "lifescope_stats"
   'dired-mode
   '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode)
-  793
-  '(793 nil)
+  259
+  '(259 nil)
   t
-  '("/home/jdonado/.emacs.d/")
-  '((overwrite-mode)))
+  '("/Users/jdonado/Git/lifescope-stats/test/lifescope_stats/")
+  '((overwrite-mode))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
+(desktop-create-buffer 208
   nil
-  "jdonado"
+  "test"
   'dired-mode
   '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode)
-  1129
-  '(1129 nil)
+  246
+  '(246 nil)
   t
-  '("/home/jdonado/")
-  '((overwrite-mode)))
+  '("/Users/jdonado/Git/lifescope-stats/test/")
+  '((overwrite-mode))
+  '((mark-ring nil)))
 
-(desktop-create-buffer 206
+(desktop-create-buffer 208
+  nil
+  "lifescope-stats"
+  'dired-mode
+  '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode)
+  1309
+  '(1309 nil)
+  t
+  '("/Users/jdonado/Git/lifescope-stats/")
+  '((overwrite-mode))
+  '((mark-ring (631 631))))
+
+(desktop-create-buffer 208
   nil
   "Git"
   'dired-mode
   '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode)
-  173
-  '(173 nil)
+  1479
+  '(1479 nil)
   t
-  '("/home/jdonado/Git/")
-  '((overwrite-mode)))
+  '("/Users/jdonado/Git/")
+  '((overwrite-mode))
+  '((mark-ring (291 291))))
 
-(desktop-create-buffer 206
+(desktop-create-buffer 208
   nil
-  "clojure-noob"
+  "jdonado"
   'dired-mode
   '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode)
-  188
-  '(188 nil)
+  5425
+  '(5425 nil)
   t
-  '("/home/jdonado/Git/clojure-noob/")
-  '((overwrite-mode)))
-
-(desktop-create-buffer 206
-  "/home/jdonado/Git/clojure-noob/src/clojure_noob/core.clj"
-  "core.clj"
-  'clojure-mode
-  '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode eldoc-mode paredit-mode subword-mode cider-mode)
-  225
-  '(225 nil)
-  nil
-  nil
-  '((indent-tabs-mode) (buffer-file-coding-system . undecided-unix) (overwrite-mode)))
-
-(desktop-create-buffer 206
-  nil
-  "clojure_noob"
-  'dired-mode
-  '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode)
-  253
-  '(253 nil)
-  t
-  '("/home/jdonado/Git/clojure-noob/src/clojure_noob/")
-  '((overwrite-mode)))
-
-(desktop-create-buffer 206
-  nil
-  "src"
-  'dired-mode
-  '(projectile-mode linum-mode rainbow-delimiters-mode undo-tree-mode)
-  240
-  '(240 nil)
-  t
-  '("/home/jdonado/Git/clojure-noob/src/")
-  '((overwrite-mode)))
+  '("/Users/jdonado/")
+  '((overwrite-mode))
+  '((mark-ring (238 238))))
 
